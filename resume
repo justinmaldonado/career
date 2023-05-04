@@ -1,1 +1,68 @@
+Qualifications
 
+Over 23 years of experience in Automation, Project Management, Network Engineering, and Operations. Multi-talented with excellent communication skills and the technical expertise to design networks, implement solutions, and troubleshoot issues. Out-of-the-box thinker and hands-on manager with a proven track record of leading and coordinating technical teams to provide innovative technical solutions and ensure total client satisfaction. Fluent bilingual reading, writing, and speaking skills in both Spanish and English.
+
+Experience:
+
+JDL Group 10/2021-Present
+    Senior Network Automation Engineer (Consultant)
+    - Implemented Red Hat Ansible for network automation.
+    - Established network device naming standards and trained team members on automation concepts and tools such as GitHub, Ansible, Jinja2, and YAML.
+    - Led datacenter refresh project, configuring & supporting Arista 7300X series switches.
+    - Implemented Arista Cloudvision for network monitoring and data collection.
+    - Automated DNS and DHCP entries for over 500 devices using Gluware automation (Java-based).
+    - Conducted audit compliance and regulatory checks on network devices.
+    - Established metrics for power consumption reduction using network management tools.
+    - Created front-end applications using AppSmith for data capacity planning.
+
+New York Genome Center 9/2016-9/2021
+    Network Manager
+    - Led cloud migration project, moving workloads to hybrid private/public cloud on GCP/AWS.
+    - Implemented Red Hat Ansible Tower to improve day-to-day operations in both private and public cloud environments.
+    - Led datacenter and firewall security refresh projects, replacing Cisco ASA with Palo Alto PA-5250.
+    - Configured firewall & routing policies on Google Cloud and implemented Cisco ISE for a Zero Trust Architecture.
+    - Responsible for budgeting and reduced operational costs by 35% while improving security and network transit elements.
+
+Windstream 1/2013–9/2016
+    Senior Network Engineer
+    - Prepared and forecasted budget for network implementation projects.
+    - Circuit turn-up and design for demand and
+    - Prepared and forecasted budget for network implementation projects
+    - Circuit turn-up and design for demand and failure resiliency
+    - Created Method of Procedure templates and guidelines
+    - Conducted IPv4 IPAM audits/management and overall assignments network-wide
+    - Configured customer edge and voice edge routers such as Juniper MX-960's and Cisco ASR 9000's
+
+AT&T (Consultant) 4/2011-12/2012
+    Network Engineer
+    - Configured Juniper SRX 5800 firewalls and MX-960 routers
+    - Configured F5 Load Balancers and Tipping Point intrusion protection systems
+
+Grey Global Group 6/2008-4/2010
+    Network Engineer
+    - Led and mentored a team of four engineers
+    - Configured and supported various Cisco switches and firewalls
+    - Implemented Cacti and HP OpenView for monitoring Cisco routers, switches, and firewalls
+    - Provided expert oversight to MPLS network and created LAN-to-LAN VPN tunnel as remote site backups
+
+Major League Baseball 6/2005–6/2007
+    Network Engineer
+    - Redesigned and established connectivity between multiple redundant Data Centers
+    - Implemented WAN MPLS with redundant VPN backup design for all 30 MLB teams
+    - Conducted security penetration testing and audits to meet compliance standards
+
+Technical Competencies
+
+Networking:
+    - CCNA/CCDA/CCDP
+    - JNCIA/JCNP
+
+Cloud Competencies:
+    - Google Cloud Platform
+    - Amazon Web Services
+    - Terraform
+
+Automation Platforms:
+    - Red Hat Ansible
+    - Python
+    - Git
